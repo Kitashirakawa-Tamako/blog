@@ -1,5 +1,6 @@
 # blog
 ## 2025
+[JavaWeb开发环境搭建](MyBlog/JavaWeb开发环境搭建.md)  
 [Collectors.toMap注意事项](Java/Collectors.toMap注意事项.md)  
 [MySQL对GROUP BY的处理](Mysql/MySQL对GROUP%20BY的处理.md)  
 ## 2024
