@@ -1,4 +1,5 @@
 文章具有时效性，如果哪个环节不适用了，可在评论区留言，红豆泥阿里嘎多。  
+下文所有的安装包和工具都都可以通过迅雷下载。
 [下载链接](https://pan.xunlei.com/s/VOVVXfVylUR2UyvcuUkpCIFsA1?pwd=dxjw#)
 # Java
 在[华为镜像站](https://repo.huaweicloud.com:8443/artifactory/java-local/jdk/)选择合适的jdk版本并安装。  
