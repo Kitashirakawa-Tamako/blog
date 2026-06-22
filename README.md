@@ -1,4 +1,7 @@
 # blog
+## 2026
+[【AI生成】Next.js 迁移至 Vite 完整指南](MyBlog/【AI生成】Next.js%20迁移至%20Vite%20完整指南.md)  
+[【AI生成】Claude Code + DeepSeek V4 Pro 安装入门指南](AI/【AI生成】Claude%20Code%20+%20DeepSeek%20V4%20Pro%20安装入门指南.md)  
 ## 2025
 [JavaWeb开发环境搭建](MyBlog/JavaWeb开发环境搭建.md)  
 [Collectors.toMap注意事项](Java/Collectors.toMap注意事项.md)  
